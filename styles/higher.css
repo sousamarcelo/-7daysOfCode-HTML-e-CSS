@@ -1,0 +1,25 @@
+.higher{
+    text-align: center;
+    font-family: var(--primary-source);
+}
+
+.higher__small-text{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--dark-red);
+    padding: 4em 0 1em 0;    
+}
+
+.higher__title{
+    color: var(--dark-blue);
+    font-weight: 600;
+    font-size: 48px;
+    padding-bottom: 0.5em;
+}
+
+.higher_description{
+    color: var(--blue-gray);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 12em;
+}

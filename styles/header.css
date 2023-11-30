@@ -6,9 +6,9 @@
 
 .header__container{
     display: flex;
-    justify-content: space-between;
     margin: 1em 5em 1em 5em; 
-    gap: 200px;   
+    gap: 100px;
+    
 }
 
 .header__container__block{
