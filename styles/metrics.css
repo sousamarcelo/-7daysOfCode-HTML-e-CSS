@@ -1,0 +1,29 @@
+.metrics__cards{
+    display: flex;
+    margin: 5em;
+    font-family: var(--primary-source);
+    align-items: center;
+    gap: 32px;    
+}
+
+.description__numbers{
+    color: var(--red-background-color);
+    font-size: 60px;
+    font-weight: 600;    
+}
+
+.description__title{
+    color: var(--dark-blue);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 1em 0;
+    
+}
+
+.description__text{
+    color: var(--blue-gray);
+    font-size: 16px;
+    font-weight: 400; 
+    line-height: 1.2em;
+    
+}
