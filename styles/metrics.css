@@ -1,6 +1,6 @@
 .metrics__cards{
     display: flex;
-    margin: 5em;
+    margin: 3em;
     font-family: var(--primary-source);
     align-items: center;
     gap: 32px;    

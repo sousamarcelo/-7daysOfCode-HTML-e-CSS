@@ -2,6 +2,7 @@
 @import url("styles/header.css");
 @import url("styles/higher.css");
 @import url("styles/metrics.css");
+@import url("styles/talent.css");
 
 :root{
     --dark-slate-gray: #3A404E;
