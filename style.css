@@ -3,6 +3,7 @@
 @import url("styles/higher.css");
 @import url("styles/metrics.css");
 @import url("styles/talent.css");
+@import url("styles/vacancies.css");
 
 :root{
     --dark-slate-gray: #3A404E;
@@ -14,6 +15,7 @@
     --main-background-color: #FFFFFF;
     --dark-blue: #101828;
     --blue-gray: #667085;
+    --light-blue: #EAECF0;
 }
 
 .body{

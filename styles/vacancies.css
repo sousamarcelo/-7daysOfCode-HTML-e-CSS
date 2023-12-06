@@ -1,0 +1,42 @@
+.vacancies{
+    margin: 3em 18em;   
+    font-family: var(--primary-source); 
+    font-family: 500;
+    color: var(--dark-blue);
+}
+
+.vacancies__description{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    padding-bottom: 2em;
+}
+
+.vacancies__description__title{
+    color: var(--dark-blue);    
+    font-size: 20px;
+   
+}
+
+.vacancies__description__information{
+    margin: 1em 1em;
+    padding: 1em;
+    border: 1px solid var(--light-blue);
+    border-radius: 16px;
+    
+}
+
+.vacancies__description__information__title{
+    font-size: 18px;
+    
+}
+
+.vacancies__description__information__details{
+    display: flex;
+    gap: 2em;
+    color: var(--blue-gray);
+    font-size: 16px;
+    margin: 2em 0 2em 0;
+   
+}
+
